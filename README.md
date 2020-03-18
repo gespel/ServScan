@@ -1,5 +1,5 @@
 # ServScan
-A small and lightweigth webcrawler which generates random IPv4 adresses and tries to connect to them on a given Port.
+A small and lightweight webcrawler which generates random IPv4 adresses and tries to connect to them on a given Port.
 
 # Usage
 - `ServScan -p [port]` where the port is the one to get crawled on
